@@ -1,0 +1,172 @@
+/* Header */
+
+.encabezado {
+    background-color: #002B5B;
+
+}
+
+.logo{
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.escalofrio {
+    width: 70%;
+
+}
+
+.srch_b {
+    width: 60%;
+}
+
+.icono {
+    color: white;
+}
+
+.hme_icn {
+    padding-left: 35%;
+}
+
+.lst1 {
+    padding-right: 60%;
+}
+
+/* Main_Container */    
+
+#main_container {
+    background-color: black;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.main_body {
+    background-color: #292b2c;
+    width: 790px;
+    height: 900px;
+    margin: 28px 550px;
+    border-radius: 25px;
+    color: white;
+}
+
+/* Middle-container */
+
+h1 {
+    text-align: center;
+    padding: 30px;
+}
+
+.input_Bar{
+   margin-left: 170px; 
+   padding: 30px;
+}
+
+#fname { 
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+
+}
+
+#fname:hover {
+    background-color: turquoise;
+}
+
+#bdate {
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#bdate:hover {
+    background-color: turquoise;
+
+}
+
+#email {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#email:hover {
+    background-color: turquoise;
+}
+
+#pass {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#pass:hover {
+    background-color: turquoise; 
+}
+
+#passv {
+    position: absolute;
+    width: 450px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+}
+
+#passv:hover {
+    background-color: turquoise; 
+}
+
+.input_submit {
+    position: absolute;
+    border-radius: 20px;
+    border: 0;
+    width: 80px;
+    height: 40px;
+    margin-left: 190px;
+    margin-top: 90px;
+
+}
+
+
+.input_selector {
+    position: absolute;
+    margin-left: 200px;
+    padding-top: 275px;
+    
+}
+
+/* Footer */
+
+.footer {
+    text-align: center;
+    background-color: #292b2c;
+    margin: auto;
+}
+
+.derechos {
+    color: white;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }

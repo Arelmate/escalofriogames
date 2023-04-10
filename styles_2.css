@@ -1,0 +1,135 @@
+/* Header */
+
+.encabezado {
+    background-color: #002B5B;
+
+}
+
+.logo{
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.escalofrio {
+    width: 70%;
+
+}
+
+.srch_b {
+    width: 60%;
+}
+
+.icono {
+    color: white;
+}
+
+.hme_icn {
+    padding-left: 35%;
+}
+
+.lst1 {
+    padding-right: 60%;
+}
+
+/* Main_Container */    
+
+.videoCarrusel {
+    width: 110%;
+    height: 600px;
+}
+
+#carouselExample {
+    width: 60%;
+    padding: 40px;
+    background-color: black;
+    display: inline-block;
+}
+
+.boton1 {
+    padding-left: 30px;
+}
+
+.boton { 
+    padding-right: 20px;
+}
+
+
+.tarjetaDatosJuego {
+    display: inline-block;
+    position: absolute;
+    width: 720px;
+    height: 630px;
+    margin: 18px;
+    background-color: #292b2c;
+    color: white;
+    
+}
+
+.AmnsiaImg {
+    width: 700px;
+    height: 600px;
+}
+
+.gameDeck1 {
+    height: 380px;
+    width: 719px;
+}
+
+.boton2 {
+    margin-top: 25px;
+    margin-left: 125px;
+}
+
+.boton3 {
+    margin-left: 125px;
+    margin-top: 25px;
+}
+
+/* Middle-container */
+
+.requisitos {
+    position: relative;
+    padding-top: 60px;
+    Padding-left: 600px;
+}
+
+.separador {
+    width: 725px;
+}
+
+
+.AcercaDe {
+    position: relative;
+    padding-top: 60px;
+    Padding-left: 600px;
+
+}
+/* Footer */
+
+.footer {
+    text-align: center;
+    background-color: black;
+    margin: auto;
+}
+
+.derechos {
+    color: white;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }

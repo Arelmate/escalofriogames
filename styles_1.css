@@ -1,0 +1,142 @@
+
+/* Header */
+
+.encabezado {
+    background-color: #002B5B;
+
+}
+
+.logo{
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.escalofrio {
+    width: 70%;
+
+}
+
+.srch_b {
+    width: 60%;
+}
+
+.icono {
+    color: white;
+}
+
+.hme_icn {
+    padding-left: 35%;
+}
+
+.lst1 {
+    padding-right: 60%;
+}
+
+/* Main_Container */    
+
+/* Middle-container */
+
+.card {
+    margin: 40px;
+}
+
+.sec_2_h1 {
+    text-align: center;
+    color: white;
+    margin-bottom: 3%;
+}
+
+#Middle-container {
+    background-color: #292b2c;
+    padding: 5% 0 8% 0;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+}
+
+.boton1 {
+    padding-right: 12%;
+    padding-top: 5%;
+}
+
+.boton2 {
+    Padding-left: 12%;
+    padding-top: 5%;
+}
+
+#carouselExampleInterval {
+   width: 120%; 
+   margin-left: -10%;
+}
+
+/* lower-container */
+
+#lower-container {
+    padding-top: 3%;
+    padding-bottom: 4%;
+    text-align: center;
+} 
+
+.press-logo {
+    margin: 20px 5px;
+}
+
+.press-logo1 {
+    width: 180px;
+    height: 185px;
+    margin: 20px 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+
+.footer {
+    text-align: center;
+    background-color: #292b2c;
+    margin: auto;
+}
+
+.derechos {
+    color: white;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }
+

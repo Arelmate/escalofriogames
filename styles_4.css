@@ -1,0 +1,107 @@
+/* Header */
+
+body {
+    background-color:#464748;
+}
+
+.encabezado {
+    background-color: #002B5B;
+
+}
+
+.logo{
+    margin-right: 10%;
+    margin-left: 5%;
+}
+
+.escalofrio {
+    width: 70%;
+
+}
+
+.srch_b {
+    width: 60%;
+}
+
+.icono {
+    color: white;
+}
+
+.hme_icn {
+    padding-left: 35%;
+}
+
+.lst1 {
+    padding-right: 60%;
+}
+
+
+/* Main_Id */
+
+#main_container {
+    width: 60%;
+    height: 1200px;
+    background-color: black;
+    padding: 20px;
+    margin: auto;
+}
+
+.carta {
+    background-color: black;
+}
+
+.carta:hover {
+    background-color: #464748;
+}
+
+.img-1 {
+    height: 196px;
+}
+
+.cambia-paginas {
+    width: 60%;
+    height: 90px;
+    margin-left: 373px;
+    background-color: black;
+}
+
+.cambiaPgna {
+    margin-left: 500px;
+}
+
+.cambiaPgna2 {
+    margin-left: 30px;
+}
+
+
+
+
+/* Footer */
+
+.footer {
+    text-align: center;
+    background-color: #292b2c;
+    margin: auto;
+}
+
+.derechos {
+    color: white;
+}
+
+.social-icon {
+    margin: 20px 10px;
+    text-align: center;
+    color: white;
+  }
+  
+  @media (max-width: 1028px) {
+  
+    #title {
+      text-align: center;
+    }
+  
+    .title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }
